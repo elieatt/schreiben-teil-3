@@ -26,4 +26,9 @@
 <p>Vielen Dank im Voraus.</p>
 <p>Mit freundlichen Grüßen,</p>
 <p>Elie Attieh (63 Wörter)</p>
+<p>Sehr geehrte Damen und Herren,</p>
+<p>mit großem Interesse habe ich Ihr <strong>Angebot für das Fahrrad im Internet</strong> gelesen und möchte es hiermit kaufen. Ich brauche die Ware dringend, <strong>da mein altes kaputt ist</strong> und ich sie für die Arbeit brauche. Ich kann <strong>sofort bezahlen</strong>.</p>
+<p>Gerne möchte ich das Fahrrad besichtigen. Könnten wir einen <strong>Termin dafür vereinbaren</strong>?</p>
+<p>Vielen Dank im Voraus.</p>
+<p>Mit freundlichen Grüßen, Elie Attieh (58 Wörter</p>
 
