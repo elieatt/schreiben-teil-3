@@ -3,8 +3,6 @@
 
 ---
 
-<p>Das ist eine super Idee! Wir erstellen jetzt die finalen, <strong>fertigen Musterlösungen (Templates)</strong>, die Sie für alle Fälle im Goethe B1 <em>Schreiben Teil 3</em> verwenden können.</p>
-<p>Ich nutze Ihre einfache Vorlage, halte die Wortzahl von 50–60 Wörtern ein und verwende die beste B1-Vokabel.</p>
 <hr>
 <h2 id="🏆-die-universelle-b1-schreiben-teil-3-vorlage"><strong>🏆 Die Universelle B1-Schreiben Teil 3 Vorlage</strong></h2>
 <p><strong>Baustein</strong></p>
